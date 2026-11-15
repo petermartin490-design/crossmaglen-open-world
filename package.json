@@ -1,0 +1,9 @@
+{
+  "name": "crossmaglen-open-world",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Top-down Crossmaglen-inspired open-world driving game prototype",
+  "scripts": {"start": "npx serve www", "build": "npx cap sync android", "android": "npx cap open android"},
+  "dependencies": {"@capacitor/android": "^7.4.3", "@capacitor/core": "^7.4.3"},
+  "devDependencies": {"@capacitor/cli": "^7.4.3", "serve": "^14.2.4"}
+}

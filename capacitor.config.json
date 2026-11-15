@@ -1,0 +1,6 @@
+{
+  "appId": "com.crossmaglen.openworld",
+  "appName": "Crossmaglen Open World",
+  "webDir": "www",
+  "bundledWebRuntime": false
+}
